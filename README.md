@@ -1,0 +1,2 @@
+# SM4_OBJC
+国密SM4，支持CBC、ECB模式，填充支持NONE、PKCS7。
